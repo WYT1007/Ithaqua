@@ -4,7 +4,7 @@ st.header("Lord of Babel, King of the Tower")
 st.subheader("His real name, perhaps the only person in the world who knows it, can no longer call out his voice, and that doesn't matter to him anymore.")
 st.text("My dear brother, watch how the ants under your feet break free from their shackles and bring down the sun.")
 
-st.markdown("this is an image: \n \
+st.markdown("Heller: \n \
 ![](https://b0.bdstatic.com/4b64cc74f52dfa56cde28d7cd8043bb0.jpg@h_1280)")
 
 if st.checkbox("Show/Hide"):
